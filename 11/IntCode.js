@@ -200,4 +200,4 @@ class IntCode {
     return this.outputValue;
   }
 }
-exports.IntCode = IntCode;
+module.exports = IntCode;
