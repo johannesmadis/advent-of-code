@@ -7,7 +7,7 @@
     "generatorics": "^1.1.0"
   },
   "devDependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2"
   },
